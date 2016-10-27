@@ -1,0 +1,4775 @@
+element.style {
+    position: relative;
+    margin-top: 40px;
+}
+
+body.riotbar-present {
+margin: 0;
+    margin-top: 40px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-top: 40px;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    position: relative;
+}
+
+body {
+    -webkit-animation-duration: 0.1s;
+    -webkit-animation-name: fontfix;
+    -webkit-animation-iteration-count: 10;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-delay: 0.5s;
+}
+body {
+    margin: 0;
+    height: calc(100% - 40px)!important;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+element.style {
+    display: none;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+#riot-apollo-tooltip-container {
+    max-width: 200px;
+    background: #fff;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(255, 255, 255);
+    color: #000;
+    padding: 5px 10px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    box-shadow: 1px 1px 5px 0 rgba(0,0,0,.18);
+    z-index: -9001;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.o-wrap {
+    height: 100%;
+    width: 100%;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+div {
+    display: block;
+}
+
+.u-sr-only {
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    clip: rect(1px,1px,1px,1px);
+    height: 1px;
+    width: 1px;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    position: absolute;
+}
+
+a {
+    background-color: transparent;
+    color: #337ab7;
+}
+.fancybox-nav, a {
+    text-decoration: none;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    text-decoration: underline;
+    cursor: auto;
+}
+
+.c-parallax, .c-parallax__group {
+    position: relative;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+
+.c-parallax, .c-parallax__group {
+    position: relative;
+}
+.o-container {
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    position: relative;
+    width: 100%;
+    max-width: 1920px;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-parallax__layer--backmost {
+    z-index: -1;
+}
+
+.c-parallax__layer--e {
+    z-index: 4;
+}
+.c-parallax__full-width-img--absolute, .c-parallax__layer--absolute {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-parallax__full-width-img {
+    display: block;
+    max-width: 100%;
+}
+
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-parallax__group--01 {
+    z-index: 5;
+}
+
+.c-parallax, .c-parallax__group {
+    position: relative;
+}
+.o-container {
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    position: relative;
+    width: 100%;
+    max-width: 1920px;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-parallax__layer--1-header-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.c-parallax__layer--a-plus, .c-parallax__layer--a-plus-plus, .c-parallax__layer--a-plus-plus-plus, .c-parallax__layer--b, .c-parallax__layer--c, .c-parallax__layer--d, .c-parallax__layer--d-plus, .c-parallax__layer--d-plus-plus {
+    z-index: 5;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-parallax__full-width-img {
+    display: block;
+    max-width: 100%;
+}
+
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-parallax__layer--1-middle-branches {
+    padding-top: 100%;
+}
+
+.c-parallax__layer--1-middle-branches {
+    padding-top: 128%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.c-parallax__layer--a-plus, .c-parallax__layer--a-plus-plus, .c-parallax__layer--a-plus-plus-plus, .c-parallax__layer--b, .c-parallax__layer--c, .c-parallax__layer--d, .c-parallax__layer--d-plus, .c-parallax__layer--d-plus-plus {
+    z-index: 5;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-parallax__layer--1-top-branches {
+    padding-top: 103%;
+}
+.c-parallax__layer--1-top-branches {
+    padding-top: 131.5%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.c-parallax__layer--a {
+    z-index: 6;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-parallax__layer-inner {
+    position: relative;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-parallax__full-width-img {
+    display: block;
+    max-width: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    background: #000;
+    color: #cfeedf;
+    font-family: Spiegel,sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.5;
+}
+.c-btn, html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+Pseudo ::before element
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+Pseudo ::after element
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-lullabies {
+    overflow-x: hidden;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+div {
+    display: block;
+}
+
+.c-lullabies__group--special-01 {
+    transform: scale(-1,-1) rotate(47deg) translateY(-74%);
+}
+.c-lullabies__group {
+    display: none;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-lullabies__layer--01 {
+    animation: orbit 20s -8s infinite linear reverse;
+    animation-name: orbit;
+    animation-duration: 20s;
+    animation-timing-function: linear;
+    animation-delay: -8s;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
+    animation-fill-mode: initial;
+    animation-play-state: initial;
+}
+
+.c-lullabies__layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-lullabies__layer--02 {
+    animation: orbit 12s -5s infinite linear;
+    animation-name: orbit;
+    animation-duration: 12s;
+    animation-timing-function: linear;
+    animation-delay: -5s;
+    animation-iteration-count: infinite;
+    animation-direction: initial;
+    animation-fill-mode: initial;
+    animation-play-state: initial;
+}
+.c-lullabies__layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-lullabies__layer--03 {
+    animation: orbit 17s -2s infinite linear reverse;
+    animation-name: orbit;
+    animation-duration: 17s;
+    animation-timing-function: linear;
+    animation-delay: -2s;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
+    animation-fill-mode: initial;
+    animation-play-state: initial;
+}
+.c-lullabies__layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-lullabies__group--special-02 {
+    transform: scale(-1,-1) rotate(66deg);
+}
+.c-lullabies__group--center {
+    top: 50%;
+    margin-top: -300px;
+}
+.c-lullabies__group--right {
+    right: -100px;
+}
+.c-lullabies__group {
+    display: none;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-lullabies__layer--01 {
+    animation: orbit 20s -8s infinite linear reverse;
+    animation-name: orbit;
+    animation-duration: 20s;
+    animation-timing-function: linear;
+    animation-delay: -8s;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
+    animation-fill-mode: initial;
+    animation-play-state: initial;
+}
+.c-lullabies__layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-lullabies__layer--02 {
+    animation: orbit 12s -5s infinite linear;
+    animation-name: orbit;
+    animation-duration: 12s;
+    animation-timing-function: linear;
+    animation-delay: -5s;
+    animation-iteration-count: infinite;
+    animation-direction: initial;
+    animation-fill-mode: initial;
+    animation-play-state: initial;
+}
+.c-lullabies__layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-lullabies__layer--03 {
+    animation: orbit 17s -2s infinite linear reverse;
+    animation-name: orbit;
+    animation-duration: 17s;
+    animation-timing-function: linear;
+    animation-delay: -2s;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
+    animation-fill-mode: initial;
+    animation-play-state: initial;
+}
+.c-lullabies__layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-lullabies {
+    overflow-x: hidden;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+div {
+    display: block;
+}
+
+.c-lullabies__group--left {
+    left: -100px;
+}
+.c-lullabies__group {
+    display: none;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+div {
+    display: block;
+}
+
+.c-lullabies__layer--01 {
+    animation: orbit 20s -8s infinite linear reverse;
+    animation-name: orbit;
+    animation-duration: 20s;
+    animation-timing-function: linear;
+    animation-delay: -8s;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
+    animation-fill-mode: initial;
+    animation-play-state: initial;
+}
+.c-lullabies__layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-lullabies__layer--02 {
+    animation: orbit 12s -5s infinite linear;
+    animation-name: orbit;
+    animation-duration: 12s;
+    animation-timing-function: linear;
+    animation-delay: -5s;
+    animation-iteration-count: infinite;
+    animation-direction: initial;
+    animation-fill-mode: initial;
+    animation-play-state: initial;
+}
+
+.c-lullabies__layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-lullabies__layer--03 {
+    animation: orbit 17s -2s infinite linear reverse;
+    animation-name: orbit;
+    animation-duration: 17s;
+    animation-timing-function: linear;
+    animation-delay: -2s;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
+    animation-fill-mode: initial;
+    animation-play-state: initial;
+}
+.c-lullabies__layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-lullabies__group--rotate-135-and-down {
+    transform: rotate(135deg) translateY(-50%);
+}
+.c-lullabies__group--right {
+    right: -100px;
+}
+.c-lullabies__group {
+    display: none;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-lullabies__layer--01 {
+    animation: orbit 20s -8s infinite linear reverse;
+    animation-name: orbit;
+    animation-duration: 20s;
+    animation-timing-function: linear;
+    animation-delay: -8s;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
+    animation-fill-mode: initial;
+    animation-play-state: initial;
+}
+.c-lullabies__layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-lullabies__layer--02 {
+    animation: orbit 12s -5s infinite linear;
+    animation-name: orbit;
+    animation-duration: 12s;
+    animation-timing-function: linear;
+    animation-delay: -5s;
+    animation-iteration-count: infinite;
+    animation-direction: initial;
+    animation-fill-mode: initial;
+    animation-play-state: initial;
+}
+.c-lullabies__layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-lullabies__layer--03 {
+    animation: orbit 17s -2s infinite linear reverse;
+    animation-name: orbit;
+    animation-duration: 17s;
+    animation-timing-function: linear;
+    animation-delay: -2s;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
+    animation-fill-mode: initial;
+    animation-play-state: initial;
+}
+.c-lullabies__layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-parallax__layer--1-pollen-1, .c-parallax__layer--1-pollen-2, .c-parallax__layer--3-pollen-3, .c-parallax__layer--3-pollen-4, .c-parallax__layer--3-pollen-5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.c-parallax__layer--fore, .c-parallax__layer--fore-minus {
+    z-index: 7;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-pollen-1 {
+    animation: pollen-throb 2s infinite alternate both;
+    animation-name: pollen-throb;
+    animation-duration: 2s;
+    animation-timing-function: initial;
+    animation-delay: initial;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: both;
+    animation-play-state: initial;
+    width: 22.864%;
+}
+
+.c-pollen {
+    display: block;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-parallax__layer--1-pollen-1, .c-parallax__layer--1-pollen-2, .c-parallax__layer--3-pollen-3, .c-parallax__layer--3-pollen-4, .c-parallax__layer--3-pollen-5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.c-parallax__layer--fore, .c-parallax__layer--fore-minus {
+    z-index: 7;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-pollen-2 {
+    animation: pollen-throb 2.25s infinite alternate both;
+    animation-name: pollen-throb;
+    animation-duration: 2.25s;
+    animation-timing-function: initial;
+    animation-delay: initial;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: both;
+    animation-play-state: initial;
+    float: right;
+    width: 22.864%;
+}
+.c-pollen {
+    display: block;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+
+
+.c-header__frame--top {
+    max-width: 50%;
+    width: 389px;
+}
+.c-header__frame {
+    display: block;
+    margin: 0 auto;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.o-aspect--389x191 {
+    padding-top: 49.10026%;
+}
+.o-aspect {
+    padding-top: 100%;
+    width: 100%;
+    position: relative;
+}
+.o-aspect, .o-media__content, .slick-list {
+    overflow: hidden;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+.c-header__heading-wrapper {
+    position: relative;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+.c-header__heading--shadow {
+    text-shadow: -2px 3px 5px rgba(21,43,72,.7),2px 3px 5px rgba(21,43,72,.7),0 5px 5px rgba(21,43,72,.7);
+}
+.c-header__heading {
+color: #fffffa;
+    font-size: 62px;
+    font-weight: 500;
+    letter-spacing: .19em;
+    line-height: .75;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 0 0 .25%;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0.25%;
+    padding-left: 0px;
+}
+.c-header__heading--gradient {
+    background: linear-gradient(to bottom,#e2ebf8,#fffffa,#fffad7,#a0a783);
+    display: block;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.c-header__heading--gradient, .c-header__heading--stroke {
+    display: none;
+}
+
+.c-header__heading--overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.c-header__heading {
+    color: #fffffa;
+    font-size: 62px;
+    font-weight: 500;
+    letter-spacing: .19em;
+    line-height: .75;
+    margin: 0;
+    padding: 0 0 .25%;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    -webkit-margin-before: 0.67em;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold; }
+
+.c-header__heading--stroke {
+    display: block;
+    color: transparent;
+    -webkit-text-stroke: 1px #ab763e;
+}
+.c-header__heading--gradient, .c-header__heading--stroke {
+    display: none;
+}
+.c-header__heading--overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.c-header__heading {
+    color: #fffffa;
+    font-size: 62px;
+    font-weight: 500;
+    letter-spacing: .19em;
+    line-height: .75;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 0 0 .25%;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0.25%;
+    padding-left: 0px;
+}
+h1, h2, h3, h4, h5, h6 {
+margin: 0 0 20px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    -webkit-margin-before: 0.67em;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-header__subheading {
+font-size: 15px;
+    font-weight: 500;
+    letter-spacing: .15em;
+    margin: 10px 0 0;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    position: relative;
+    text-shadow: 0 1px 4px #172a28,0 1px 10px #172a28,0 1px 20px #172a28;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+div {
+    display: block;
+}
+
+.c-header__frame--mid {
+    max-width: 100%;
+    transform: scale(1.5);
+    width: 1132px;
+}
+.c-header__frame {
+    display: block;
+        margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.o-aspect--1132x111 {
+    padding-top: 9.80565%;
+}
+.o-aspect {
+    padding-top: 100%;
+    width: 100%;
+    position: relative;
+}
+.o-aspect, .o-media__content, .slick-list {
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+div {
+    display: block;
+}
+
+.o-aspect>div, .o-aspect>iframe, .o-aspect>img, .o-aspect>video {
+margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+img {
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-header__subheading-inner {
+    color: #ffffe3;
+    padding-top: 1.75%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+div {
+    display: block;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-header__paragraph-wrapper {
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    max-width: 84%;
+    min-height: 333px;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+div {
+    display: block;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-header__paragraph {
+    color: #e2eccd;
+    font-size: 14px;
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+      text-shadow: 2px 2px #000;
+
+}
+
+dl, hr, ol, p, ul {
+    margin: 0 0 20px;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+
+.c-header__paragraph-init-cap {
+    font-size: 1.4em;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-header__frame--bottom {
+    max-width: 60%;
+    margin-bottom: 5%;
+    width: 301px;
+}
+
+.c-header__frame {
+display: block;
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    z-index:-1;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.o-aspect--301x126 {
+    padding-top: 41.86047%;
+}
+.o-aspect {
+    padding-top: 100%;
+    width: 100%;
+    position: relative;
+}
+.o-aspect, .o-media__content, .slick-list {
+    overflow: hidden;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+div {
+    display: block;
+}
+
+.o-aspect>div, .o-aspect>iframe, .o-aspect>img, .o-aspect>video {
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-parallax__group--02 {
+    margin-top: -33%;
+    z-index: 3;
+}
+
+.c-parallax, .c-parallax__group {
+    position: relative;
+}
+.o-container {
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    position: relative;
+    width: 100%;
+    max-width: 1920px;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-parallax__layer--2-face {
+    padding-top: 34%;
+}
+.c-parallax__layer--e {
+    z-index: 4;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-parallax__full-width-img {
+    display: block;
+    max-width: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-parallax__layer--2-upper-arm {
+    padding-top: 72%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.c-parallax__layer--a-plus, .c-parallax__layer--a-plus-plus, .c-parallax__layer--a-plus-plus-plus, .c-parallax__layer--b, .c-parallax__layer--c, .c-parallax__layer--d, .c-parallax__layer--d-plus, .c-parallax__layer--d-plus-plus {
+    z-index: 5;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-parallax__layer--2-umbrella>img, .c-parallax__layer--2-upper-arm>img {
+    transition: transform 3.5s;
+}
+
+.c-parallax__full-width-img {
+    display: block;
+    max-width: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-parallax__layer--rain-canvas-wrapper {
+    display: none;
+}
+.c-parallax__layer--a-plus, .c-parallax__layer--a-plus-plus, .c-parallax__layer--a-plus-plus-plus, .c-parallax__layer--b, .c-parallax__layer--c, .c-parallax__layer--d, .c-parallax__layer--d-plus, .c-parallax__layer--d-plus-plus {
+    z-index: 5;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-parallax__rain-canvas {
+    display: none;
+}
+
+audio, canvas, progress, video {
+    display: inline-block;
+    vertical-align: baseline;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-parallax__layer--2-umbrella {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding-top: 40%;
+}
+
+.c-parallax__layer--a-plus, .c-parallax__layer--a-plus-plus, .c-parallax__layer--a-plus-plus-plus, .c-parallax__layer--b, .c-parallax__layer--c, .c-parallax__layer--d, .c-parallax__layer--d-plus, .c-parallax__layer--d-plus-plus {
+    z-index: 5;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+div {
+    display: block;
+}
+
+.c-parallax__layer--2-umbrella>img, .c-parallax__layer--2-upper-arm>img {
+    transition: transform 3.5s;
+    transition-property: transform;
+    transition-duration: 3.5s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+}
+
+.c-parallax__full-width-img {
+    display: block;
+    max-width: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-parallax__layer--2-bird-nest {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding-top: 70%;
+}
+
+.c-parallax__layer--a-plus, .c-parallax__layer--a-plus-plus, .c-parallax__layer--a-plus-plus-plus, .c-parallax__layer--b, .c-parallax__layer--c, .c-parallax__layer--d, .c-parallax__layer--d-plus, .c-parallax__layer--d-plus-plus {
+    z-index: 5;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-parallax__full-width-img {
+    display: block;
+    max-width: 100%;
+}
+
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-parallax__layer--2-branch-before-nest {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding-top: 68%;
+}
+
+.c-parallax__layer--a-plus, .c-parallax__layer--a-plus-plus, .c-parallax__layer--a-plus-plus-plus, .c-parallax__layer--b, .c-parallax__layer--c, .c-parallax__layer--d, .c-parallax__layer--d-plus, .c-parallax__layer--d-plus-plus {
+    z-index: 5;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-parallax__full-width-img {
+    display: block;
+    max-width: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-parallax__group--03 {
+    z-index: 7;
+}
+.c-parallax, .c-parallax__group {
+    position: relative;
+}
+.o-container {
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    position: relative;
+    width: 100%;
+    max-width: 1920px;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-parallax__layer--3-mushroom-cross-branch {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding-top: 200%;
+}
+.c-parallax__layer--a-plus, .c-parallax__layer--a-plus-plus, .c-parallax__layer--a-plus-plus-plus, .c-parallax__layer--b, .c-parallax__layer--c, .c-parallax__layer--d, .c-parallax__layer--d-plus, .c-parallax__layer--d-plus-plus {
+    z-index: 5;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-parallax__layer-inner {
+    position: relative;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-parallax__full-width-img {
+    display: block;
+    max-width: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-lullabies {
+    overflow-x: hidden;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-lullabies__group--smaller {
+    width: 600px;
+    height: 450px;
+}
+.c-lullabies__group--left {
+    left: -100px;
+}
+.c-lullabies__group {
+    display: none;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+img:not([src]):not([srcset]) {
+    visibility: hidden;
+}
+.c-lullabies__layer--01 {
+    animation: orbit 20s -8s infinite linear reverse;
+    animation-name: orbit;
+    animation-duration: 20s;
+    animation-timing-function: linear;
+    animation-delay: -8s;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
+    animation-fill-mode: initial;
+    animation-play-state: initial;
+}
+.c-lullabies__layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+
+
+img:not([src]):not([srcset]) {
+    visibility: hidden;
+}
+
+.c-lullabies__layer--02 {
+    animation: orbit 12s -5s infinite linear;
+    animation-name: orbit;
+    animation-duration: 12s;
+    animation-timing-function: linear;
+    animation-delay: -5s;
+    animation-iteration-count: infinite;
+    animation-direction: initial;
+    animation-fill-mode: initial;
+    animation-play-state: initial;
+}
+.c-lullabies__layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+img:not([src]):not([srcset]) {
+    visibility: hidden;
+}
+.c-lullabies__layer--03 {
+    animation: orbit 17s -2s infinite linear reverse;
+    animation-name: orbit;
+    animation-duration: 17s;
+    animation-timing-function: linear;
+    animation-delay: -2s;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
+    animation-fill-mode: initial;
+    animation-play-state: initial;
+}
+
+.c-lullabies__layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-lullabies__group--special-05 {
+    right: 0;
+    transform: rotate(180deg) translateY(11%);
+}
+.c-lullabies__group--bottom {
+    top: auto;
+    bottom: 0;
+}
+.c-lullabies__group {
+    display: none;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+img:not([src]):not([srcset]) {
+    visibility: hidden;
+}
+
+.c-lullabies__layer--01 {
+    animation: orbit 20s -8s infinite linear reverse;
+}
+.c-lullabies__layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+img:not([src]):not([srcset]) {
+    visibility: hidden;
+}
+.c-lullabies__layer--02 {
+    animation: orbit 12s -5s infinite linear;
+    animation-name: orbit;
+    animation-duration: 12s;
+    animation-timing-function: linear;
+    animation-delay: -5s;
+    animation-iteration-count: infinite;
+    animation-direction: initial;
+    animation-fill-mode: initial;
+    animation-play-state: initial;
+}
+.c-lullabies__layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+img:not([src]):not([srcset]) {
+    visibility: hidden;
+}
+
+.c-lullabies__layer--03 {
+    animation: orbit 17s -2s infinite linear reverse;
+    animation-name: orbit;
+    animation-duration: 17s;
+    animation-timing-function: linear;
+    animation-delay: -2s;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
+    animation-fill-mode: initial;
+    animation-play-state: initial;
+}
+.c-lullabies__layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-parallax__layer--1-pollen-1, .c-parallax__layer--1-pollen-2, .c-parallax__layer--3-pollen-3, .c-parallax__layer--3-pollen-4, .c-parallax__layer--3-pollen-5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.c-parallax__layer--a-plus, .c-parallax__layer--a-plus-plus, .c-parallax__layer--a-plus-plus-plus, .c-parallax__layer--b, .c-parallax__layer--c, .c-parallax__layer--d, .c-parallax__layer--d-plus, .c-parallax__layer--d-plus-plus {
+    z-index: 5;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-pollen-3 {
+    animation: pollen-throb 1.75s infinite alternate both;
+    animation-name: pollen-throb;
+    animation-duration: 1.75s;
+    animation-timing-function: initial;
+    animation-delay: initial;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: both;
+    animation-play-state: initial;
+    width: 24.791%;
+}
+
+.c-pollen {
+    display: block;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-parallax__layer--1-pollen-1, .c-parallax__layer--1-pollen-2, .c-parallax__layer--3-pollen-3, .c-parallax__layer--3-pollen-4, .c-parallax__layer--3-pollen-5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.c-parallax__layer--a-plus, .c-parallax__layer--a-plus-plus, .c-parallax__layer--a-plus-plus-plus, .c-parallax__layer--b, .c-parallax__layer--c, .c-parallax__layer--d, .c-parallax__layer--d-plus, .c-parallax__layer--d-plus-plus {
+    z-index: 5;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-parallax__layer--1-pollen-1, .c-parallax__layer--1-pollen-2, .c-parallax__layer--3-pollen-3, .c-parallax__layer--3-pollen-4, .c-parallax__layer--3-pollen-5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.c-parallax__layer--a-plus, .c-parallax__layer--a-plus-plus, .c-parallax__layer--a-plus-plus-plus, .c-parallax__layer--b, .c-parallax__layer--c, .c-parallax__layer--d, .c-parallax__layer--d-plus, .c-parallax__layer--d-plus-plus {
+    z-index: 5;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+div {
+    display: block;
+}
+
+.c-parallax__layer--3-right-branch {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding-top: 150%;
+}
+
+.c-parallax__layer--a-plus, .c-parallax__layer--a-plus-plus, .c-parallax__layer--a-plus-plus-plus, .c-parallax__layer--b, .c-parallax__layer--c, .c-parallax__layer--d, .c-parallax__layer--d-plus, .c-parallax__layer--d-plus-plus {
+    z-index: 5;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+div {
+    display: block;
+}
+
+.c-parallax__layer-inner {
+    position: relative;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-parallax__full-width-img {
+    display: block;
+    max-width: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-lullabies {
+    overflow-x: hidden;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-lullabies__group--special-03 {
+    right: 0;
+    transform: translate(30%,36%);
+}
+
+.c-lullabies__group {
+    display: none;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+img:not([src]):not([srcset]) {
+    visibility: hidden;
+}
+
+.c-lullabies__layer--01 {
+    animation: orbit 20s -8s infinite linear reverse;
+    animation-name: orbit;
+    animation-duration: 20s;
+    animation-timing-function: linear;
+    animation-delay: -8s;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
+    animation-fill-mode: initial;
+    animation-play-state: initial;
+}
+.c-lullabies__layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+img:not([src]):not([srcset]) {
+    visibility: hidden;
+}
+.c-lullabies__layer--02 {
+    animation: orbit 12s -5s infinite linear;
+    animation-name: orbit;
+    animation-duration: 12s;
+    animation-timing-function: linear;
+    animation-delay: -5s;
+    animation-iteration-count: infinite;
+    animation-direction: initial;
+    animation-fill-mode: initial;
+    animation-play-state: initial;
+}
+.c-lullabies__layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-ability {
+    position: relative;
+    text-align: left;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+article, aside, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+
+.c-ability__content {
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    padding: 0 7%;
+    padding-top: 0px;
+    padding-right: 7%;
+    padding-bottom: 0px;
+    padding-left: 7%;
+    width: 766px;
+    max-width: 100%;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-footer-menu, .c-footer__center, .c-social-links, .c-thumbnails, .u-text-center {
+    text-align: center;
+}
+
+.c-heading-section, .c-heading-section__inner {
+    position: relative;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-heading-section__text--abilities {
+    color: #ad994d;
+}
+.c-heading-section__text--shadow {
+    text-shadow: 0 0 40px rgba(0,0,0,.8),0 0 60px rgba(0,0,0,.8),0 0 80px rgba(0,0,0,.8);
+}
+
+.c-heading-section__text {
+    font-size: 28px;
+}
+.c-heading-section__text {
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: .1em;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.c-ability__subheading, .c-header, .c-heading-section__text {
+    font-family: 'Beaufort for LOL',serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin: 0 0 20px;
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+h3 {
+    display: block;
+    font-size: 1.17em;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+
+.c-inlay {
+    max-width: 100%;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-inlay__inner--has-bottom-ornament {
+    padding-bottom: 8%;
+}
+.c-inlay__inner {
+    clear: both;
+    padding-top: 6.5%;
+    position: relative;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-inlay__corner--top.c-inlay__corner--left {
+    left: -7%;
+}
+
+.c-inlay__corner--top {
+    top: 0;
+    max-width: 14.86%;
+}
+.c-inlay__corner {
+    position: absolute;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-inlay__corner--top.c-inlay__corner--right {
+    right: -7%;
+}
+
+.c-inlay__corner--top {
+    top: 0;
+    max-width: 14.86%;
+}
+.c-inlay__corner {
+    position: absolute;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-inlay__corner--bottom.c-inlay__corner--left {
+    left: -6.5%;
+}
+
+.c-inlay__corner--bottom {
+    bottom: 0;
+    max-width: 9.907%;
+}
+.c-inlay__corner {
+    position: absolute;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-inlay__corner--bottom.c-inlay__corner--right {
+    right: -6.5%;
+}
+
+.c-inlay__corner--bottom {
+    bottom: 0;
+    max-width: 9.907%;
+}
+.c-inlay__corner {
+    position: absolute;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+Inherited from section.c-ability
+.c-ability {
+    position: relative;
+    text-align: left;
+}
+
+.c-inlay__gradient-box {
+    background-image: linear-gradient(to bottom,#70684c,#4c4125);
+    box-shadow: 0 10px 16px rgba(0,0,0,.4);
+    padding: 1px;
+    padding-top: 1px;
+    padding-right: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-inlay__gradient-box {
+    background-image: linear-gradient(to bottom,#70684c,#4c4125);
+    box-shadow: 0 10px 16px rgba(0,0,0,.4);
+    padding: 1px;
+    padding-top: 1px;
+    padding-right: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.o-aspect--16x9 {
+    padding-top: 56.25%;
+}
+
+.o-aspect {
+    padding-top: 100%;
+    width: 100%;
+    position: relative;
+}
+.o-aspect, .o-media__content, .slick-list {
+    overflow: hidden;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.o-aspect>div, .o-aspect>iframe, .o-aspect>video {
+    height: 100%;
+}
+
+.o-aspect>div, .o-aspect>iframe, .o-aspect>img, .o-aspect>video {
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+
+iframe {
+    border-width: 2px;
+    border-top-width: 2px;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    border-style: inset;
+    border-top-style: inset;
+    border-right-style: inset;
+    border-bottom-style: inset;
+    border-left-style: inset;
+    border-color: initial;
+    border-top-color: initial;
+    border-right-color: initial;
+    border-bottom-color: initial;
+    border-left-color: initial;
+    border-image: initial;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+}
+
+html {
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+
+html {
+    display: block;
+}
+
+body {
+    font: 12px Roboto,Arial,sans-serif;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 12px;
+    line-height: normal;
+    font-family: Roboto, Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    position: absolute;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+
+element.style {
+    width: 100%;
+    height: 100%;
+}
+.full-frame {
+    width: 100%;
+    height: 100%;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.html5-video-player {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    outline: 0;
+    outline-color: initial;
+    outline-style: initial;
+    outline-width: 0px;
+    font-family: Roboto,Arial,Helvetica,sans-serif;
+    color: #eee;
+    text-align: left;
+    direction: ltr;
+    font-size: 11px;
+    line-height: 1.3;
+    -webkit-font-smoothing: antialiased;
+    touch-action: manipulation;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.html5-video-container {
+    z-index: 10;
+    position: relative;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
+
+element.style {
+    width: 604px;
+    height: 340px;
+    left: 0px;
+    top: -340px;
+}
+
+.html5-video-player .video-click-tracking, .html5-video-player .video-stream {
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+.html5-main-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    outline: 0;
+}
+user agent stylesheet
+video {
+    object-fit: contain;
+}
+
+.ytp-gradient-top {
+    top: 0;
+    z-index: 21;
+    background-position: top;
+    background-position-x: center;
+    background-position-y: top;
+}
+
+.ytp-gradient-top, .ytp-gradient-bottom {
+    height: 98px;
+    width: 100%;
+    position: absolute;
+    background-repeat: repeat-x;
+    background-repeat-x: repeat;
+    background-repeat-y: no-repeat;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAADGCAYAAAAT+OqFAAAAdklEQ…JSCY2dEstQY7AuxahwXFrvZmWl2rh4JZ07z9dLtesfNj5q0FU3A5ObbwAAAABJRU5ErkJggg==);
+    -moz-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    -webkit-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    pointer-events: none;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.ytp-chrome-top, .ytp-chrome-top-buttons, .ytp-playlist-menu-button, .ytp-chrome-bottom {
+    -moz-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    -webkit-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    transition-property: opacity;
+    transition-duration: 0.25s;
+    transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
+    transition-delay: initial;
+}
+
+.ytp-chrome-top {
+    left: 12px;
+    right: 12px;
+    top: 0;
+    z-index: 60;
+}
+.ytp-chrome-top, .ytp-chrome-bottom {
+    position: absolute;
+    text-shadow: 0 0 2px rgba(0,0,0,.5);
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+element.style {
+    display: none;
+}
+.ytp-button:not([aria-disabled=true]):not([disabled]):not([aria-hidden=true]) {
+    cursor: pointer;
+}
+
+.ytp-chrome-top .ytp-button {
+    padding-top: 6px;
+    height: 42px;
+}
+.ytp-playlist-menu-button {
+    float: left;
+}
+.ytp-chrome-top, .ytp-chrome-top-buttons, .ytp-playlist-menu-button, .ytp-chrome-bottom {
+    -moz-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    -webkit-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    transition-property: opacity;
+    transition-duration: 0.25s;
+    transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
+    transition-delay: initial;
+}
+.ytp-button:focus, .ytp-button {
+    outline: 0;
+    outline-color: initial;
+    outline-style: initial;
+    outline-width: 0px;
+}
+.ytp-button {
+    border: none;
+    border-top-color: initial;
+    border-top-style: none;
+    border-top-width: initial;
+    border-right-color: initial;
+    border-right-style: none;
+    border-right-width: initial;
+    border-bottom-color: initial;
+    border-bottom-style: none;
+    border-bottom-width: initial;
+    border-left-color: initial;
+    border-left-style: none;
+    border-left-width: initial;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    background-color: transparent;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    color: inherit;
+    text-align: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    cursor: default;
+    line-height: inherit;
+}
+
+user agent stylesheet
+input, textarea, keygen, select, button {
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    margin: 0em 0em 0em 0em;
+    margin-top: 0em;
+    margin-right: 0em;
+    margin-bottom: 0em;
+    margin-left: 0em;
+    font: 12px Arial;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 12px;
+    line-height: normal;
+    font-family: Arial;
+}
+user agent stylesheet
+input, textarea, keygen, select, button, meter, progress {
+    -webkit-writing-mode: horizontal-tb;
+}
+user agent stylesheet
+button {
+    -webkit-appearance: button;
+}
+
+
+.ytp-playlist-menu-button-icon, .ytp-playlist-menu-button-text {
+    vertical-align: middle;
+}
+
+.ytp-playlist-menu-button-icon {
+    height: 36px;
+}
+.ytp-playlist-menu-button-icon, .ytp-chrome-top .ytp-button:not(.ytp-playlist-menu-button), .ytp-chrome-controls .ytp-button, .ytp-replay-button {
+    opacity: .9;
+    display: inline-block;
+    width: 36px;
+    -moz-transition: opacity .1s cubic-bezier(0.4,0.0,1,1);
+    -webkit-transition: opacity .1s cubic-bezier(0.4,0.0,1,1);
+    transition: opacity .1s cubic-bezier(0.4,0.0,1,1);
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.html5-video-player svg {
+    pointer-events: none;
+}
+
+
+svg:not(:root), symbol, image, marker, pattern, foreignObject {
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+* {
+    transform-origin: 0px 0px 0px;
+}
+
+
+.ytp-svg-shadow {
+    stroke: #000;
+    stroke-opacity: .15;
+    stroke-width: 2px;
+    fill: none;
+}
+
+user agent stylesheet
+* {
+    transform-origin: 0px 0px 0px;
+}
+
+
+.ytp-playlist-menu-button-icon, .ytp-playlist-menu-button-text {
+    vertical-align: middle;
+}
+
+.ytp-playlist-menu-button-text {
+    display: inline-block;
+    padding-right: 6px;
+    line-height: 36px;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+
+.ytp-watch-later-button-visible .ytp-title, .ytp-share-button-visible .ytp-title {
+    padding-right: 36px;
+}
+
+.ytp-title {
+    font-size: 163%;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+
+.html5-video-player a {
+    color: inherit;
+    text-decoration: none;
+    -moz-transition: color .1s cubic-bezier(0.0,0.0,0.2,1);
+    -webkit-transition: color .1s cubic-bezier(0.0,0.0,0.2,1);
+    transition: color .1s cubic-bezier(0.0,0.0,0.2,1);
+    outline: 0;
+    outline-color: initial;
+    outline-style: initial;
+    outline-width: 0px;
+}
+
+.ytp-title-channel-logo {
+    -moz-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    -webkit-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+}
+.ytp-title-channel-logo {
+    width: 40px;
+    height: 40px;
+    padding-top: 12px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    margin-left: -40px;
+    background-origin: content-box;
+    display: none;
+}
+
+.ytp-title-text {
+    display: inline-block;
+    line-height: 1.1;
+    vertical-align: top;
+    max-width: 100%;
+    -moz-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    -webkit-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
+
+.html5-video-player a {
+    color: inherit;
+    text-decoration: none;
+    -moz-transition: color .1s cubic-bezier(0.0,0.0,0.2,1);
+    -webkit-transition: color .1s cubic-bezier(0.0,0.0,0.2,1);
+    transition: color .1s cubic-bezier(0.0,0.0,0.2,1);
+    transition-property: color;
+    transition-duration: 0.1s;
+    transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
+    transition-delay: initial;
+    outline: 0;
+    outline-color: initial;
+    outline-style: initial;
+    outline-width: 0px;
+}
+.ytp-title-link {
+    padding-top: 14px;
+}
+.ytp-title-link, .ytp-title-channel-name {
+    height: 1.2em;
+    max-width: 100%;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    white-space: nowrap;
+    word-wrap: normal;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    float: left;
+    padding-left: 4px;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    text-decoration: underline;
+    cursor: auto;
+}
+
+element.style {
+    display: none;
+}
+.ytp-title-playlist-icon {
+    display: inline-block;
+    vertical-align: text-top;
+    margin-top: -9px;
+    width: 36px;
+    height: 36px;
+}
+
+
+.html5-video-player svg {
+    pointer-events: none;
+}
+
+user agent stylesheet
+svg:not(:root), symbol, image, marker, pattern, foreignObject {
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+user agent stylesheet
+* {
+    transform-origin: 0px 0px 0px;
+}
+
+.ytp-svg-shadow {
+    stroke: #000;
+    stroke-opacity: .15;
+    stroke-width: 2px;
+    fill: none;
+}
+
+user agent stylesheet
+* {
+    transform-origin: 0px 0px 0px;
+}
+
+.html5-video-player a {
+    color: inherit;
+    text-decoration: none;
+    -moz-transition: color .1s cubic-bezier(0.0,0.0,0.2,1);
+    -webkit-transition: color .1s cubic-bezier(0.0,0.0,0.2,1);
+    transition: color .1s cubic-bezier(0.0,0.0,0.2,1);
+    transition-property: color;
+    transition-duration: 0.1s;
+    transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
+    transition-delay: initial;
+    outline: 0;
+    outline-color: initial;
+    outline-style: initial;
+    outline-width: 0px;
+}
+
+.ytp-title-channel-name {
+    margin-top: 4px;
+    font-size: 73%;
+    clear: left;
+    display: none;
+}
+.ytp-title-link, .ytp-title-channel-name {
+    height: 1.2em;
+    max-width: 100%;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    white-space: nowrap;
+    word-wrap: normal;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    float: left;
+    padding-left: 4px;
+}
+
+.c-footer-menu, .c-footer__center, .c-social-links, .c-thumbnails, .u-text-center {
+    text-align: center;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-thumbnails__thumb {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    width: 63px;
+    max-width: 25%;
+    margin: 0 9px;
+    margin-top: 0px;
+    margin-right: 9px;
+    margin-bottom: 0px;
+    margin-left: 9px;
+    vertical-align: top;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.ytp-chrome-top, .ytp-chrome-top-buttons, .ytp-playlist-menu-button, .ytp-chrome-bottom {
+    -moz-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    -webkit-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+}
+
+.ytp-chrome-top-buttons {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+element.style {
+    display: none;
+}
+.ytp-button:not([aria-disabled=true]):not([disabled]):not([aria-hidden=true]) {
+    cursor: pointer;
+}
+
+.ytp-cards-button {
+    opacity: .9;
+    display: inline-block;
+    width: 36px;
+    height: 42px;
+    position: absolute;
+    padding-top: 6px;
+    right: 12px;
+    -moz-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    -webkit-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    overflow: hidden;
+    pointer-events: all;
+    z-index: 63;
+}
+.ytp-button:focus, .ytp-button {
+    outline: 0;
+    outline-color: initial;
+    outline-style: initial;
+    outline-width: 0px;
+}
+.ytp-button {
+    border: none;
+    border-top-color: initial;
+    border-top-style: none;
+    border-top-width: initial;
+    border-right-color: initial;
+    border-right-style: none;
+    border-right-width: initial;
+    border-bottom-color: initial;
+    border-bottom-style: none;
+    border-bottom-width: initial;
+    border-left-color: initial;
+    border-left-style: none;
+    border-left-width: initial;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    background-color: transparent;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    color: inherit;
+    text-align: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    cursor: default;
+    line-height: inherit;
+}
+
+input, textarea, keygen, select, button {
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    margin: 0em 0em 0em 0em;
+    font: 12px Arial;
+}
+user agent stylesheet
+input, textarea, keygen, select, button, meter, progress {
+    -webkit-writing-mode: horizontal-tb;
+}
+user agent stylesheet
+button {
+    -webkit-appearance: button;
+}
+
+element.style {
+    display: none;
+}
+
+.ytp-webgl-spherical-control {
+    position: absolute;
+    top: 48px;
+    left: 12px;
+    opacity: .6;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    -moz-transition: top .25s cubic-bezier(0.0,0.0,0.2,1),opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    -webkit-transition: top .25s cubic-bezier(0.0,0.0,0.2,1),opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    transition: top .25s cubic-bezier(0.0,0.0,0.2,1),opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    z-index: 37;
+    outline: none;
+    outline-color: initial;
+    outline-style: none;
+    outline-width: initial;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.unstarted-mode:not(.playing-mode) .ytp-cued-thumbnail-overlay:not([aria-hidden=true]), .ended-mode .ytp-cued-thumbnail-overlay:not([aria-hidden=true]) {
+    cursor: pointer;
+}
+
+.ytp-thumbnail-overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 12;
+    background-position: center;
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    -moz-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    -webkit-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    transition-property: opacity;
+    transition-duration: 0.25s;
+    transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
+    transition-delay: initial;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+element.style {
+    display: none;
+}
+.ytp-spinner {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 10%;
+    height: 10%;
+    min-width: 32px;
+    min-height: 32px;
+    z-index: 16;
+    pointer-events: none;
+    -moz-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+element.style {
+    display: none;
+}
+
+.ytp-bezel {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 52px;
+    height: 52px;
+    z-index: 17;
+    margin-left: -26px;
+    margin-top: -26px;
+    background: rgba(0,0,0,.5);
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgba(0, 0, 0, 0.498039);
+    border-radius: 26px;
+    border-top-left-radius: 26px;
+    border-top-right-radius: 26px;
+    border-bottom-right-radius: 26px;
+    border-bottom-left-radius: 26px;
+    -moz-animation: ytp-bezel-fadeout .5s linear 1 normal forwards;
+    -webkit-animation: ytp-bezel-fadeout .5s linear 1 normal forwards;
+    animation: ytp-bezel-fadeout .5s linear 1 normal forwards;
+    animation-name: ytp-bezel-fadeout;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-delay: initial;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-fill-mode: forwards;
+    animation-play-state: initial;
+    pointer-events: none;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.ytp-paid-content-overlay {
+    bottom: 41px;
+    display: inline-block;
+    font-size: 109.090909%;
+    height: 30px;
+    left: 25px;
+    line-height: 30px;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    pointer-events: none;
+    position: absolute;
+    text-shadow: 0 0 2px rgba(0,0,0,.5);
+    z-index: 22;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
+
+element.style {
+    display: none;
+}
+.ytp-storyboard {
+    position: absolute;
+    left: 0;
+    bottom: 51px;
+    z-index: 59;
+    -moz-transition: opacity .1s cubic-bezier(0.0,0.0,0.2,1);
+    -webkit-transition: opacity .1s cubic-bezier(0.0,0.0,0.2,1);
+    transition: opacity .1s cubic-bezier(0.0,0.0,0.2,1);
+    transition-property: opacity;
+    transition-duration: 0.1s;
+    transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
+    transition-delay: initial;
+    pointer-events: none;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+element.style {
+    display: none;
+}
+
+.ytp-storyboard-framepreview {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 14;
+    background: #000;
+    -moz-transition: opacity .1s cubic-bezier(0.0,0.0,0.2,1);
+    -webkit-transition: opacity .1s cubic-bezier(0.0,0.0,0.2,1);
+    transition: opacity .1s cubic-bezier(0.0,0.0,0.2,1);
+    transition-property: opacity;
+    transition-duration: 0.1s;
+    transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
+    transition-delay: initial;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+element.style {
+    display: none;
+}
+
+.ytp-hide-controls .ytp-remote {
+    bottom: 12px;
+    -moz-transition: bottom .25s cubic-bezier(0.4,0.0,1,1),opacity .25s cubic-bezier(0.4,0.0,1,1);
+    -webkit-transition: bottom .25s cubic-bezier(0.4,0.0,1,1),opacity .25s cubic-bezier(0.4,0.0,1,1);
+    transition: bottom .25s cubic-bezier(0.4,0.0,1,1),opacity .25s cubic-bezier(0.4,0.0,1,1);
+    transition-property: bottom, opacity;
+    transition-duration: 0.25s, 0.25s;
+    transition-timing-function: cubic-bezier(0.4, 0, 1, 1), cubic-bezier(0.4, 0, 1, 1);
+    transition-delay: initial, initial;
+}
+.ytp-remote {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 49px;
+    -moz-transition: bottom .25s cubic-bezier(0.0,0.0,0.2,1),opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    -webkit-transition: bottom .25s cubic-bezier(0.0,0.0,0.2,1),opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    transition: bottom .25s cubic-bezier(0.0,0.0,0.2,1),opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    pointer-events: none;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+element.style {
+    display: none;
+}
+.ytp-ad-persistent-progress-bar-container {
+    position: absolute;
+    bottom: -3px;
+    width: 100%;
+    height: 3px;
+    background-color: rgba(255,255,255,.2);
+    opacity: 0;
+    -moz-transition: bottom .1s cubic-bezier(0.4,0.0,1,1),opacity .1s cubic-bezier(0.4,0.0,1,1);
+    -webkit-transition: bottom .1s cubic-bezier(0.4,0.0,1,1),opacity .1s cubic-bezier(0.4,0.0,1,1);
+    transition: bottom .1s cubic-bezier(0.4,0.0,1,1),opacity .1s cubic-bezier(0.4,0.0,1,1);
+    z-index: 32;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+element.style {
+    display: none;
+}
+
+.ytp-cards-teaser {
+    position: absolute;
+    top: 8.5px;
+    right: 0;
+    border-right: 12px solid transparent;
+    max-width: 90%;
+    opacity: .75;
+    cursor: pointer;
+    z-index: 62;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -moz-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    -webkit-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    transition-property: opacity;
+    transition-duration: 0.25s;
+    transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
+    transition-delay: initial;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+element.style {
+    display: none;
+}
+
+.ytp-playlist-menu {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 400px;
+    max-width: 100%;
+    z-index: 71;
+    background: rgba(0,0,0,0.8);
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgba(0, 0, 0, 0.8);
+    -moz-transition: -moz-transform .25s cubic-bezier(0.0,0.0,0.2,1);
+    -webkit-transition: -webkit-transform .25s cubic-bezier(0.0,0.0,0.2,1);
+    -ms-transition: -ms-transform .25s cubic-bezier(0.0,0.0,0.2,1);
+    transition: transform .25s cubic-bezier(0.0,0.0,0.2,1);
+    transition-property: transform;
+    transition-duration: 0.25s;
+    transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
+    transition-delay: initial;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+element.style {
+    display: none;
+}
+.ytp-share-panel {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 72;
+    background: rgba(0,0,0,0.8);
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgba(0, 0, 0, 0.8);
+    text-align: center;
+    -moz-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    -webkit-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    transition-property: opacity;
+    transition-duration: 0.25s;
+    transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
+    transition-delay: initial;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+element.style {
+    display: none;
+}
+.ytp-multicam-menu {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    max-width: 100%;
+    z-index: 71;
+    background: rgba(0,0,0,0.2);
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    -moz-transition: width .25s cubic-bezier(0.0,0.0,0.2,1);
+    -webkit-transition: width .25s cubic-bezier(0.0,0.0,0.2,1);
+    transition: width .25s cubic-bezier(0.0,0.0,0.2,1);
+    transition-property: width;
+    transition-duration: 0.25s;
+    transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
+    transition-delay: initial;
+    width: 175px;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
+
+element.style {
+    display: none;
+}
+.ytp-settings-menu {
+    right: 12px;
+    bottom: 49px;
+    z-index: 69;
+    will-change: width,height;
+}
+
+.ytp-popup {
+    position: absolute;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    border-radius: 2px;
+    background: rgba(28,28,28,0.9);
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgba(28, 28, 28, 0.901961);
+    text-shadow: 0 0 2px rgba(0,0,0,.5);
+    -moz-transition: opacity .1s cubic-bezier(0.0,0.0,0.2,1);
+    -webkit-transition: opacity .1s cubic-bezier(0.0,0.0,0.2,1);
+    transition: opacity .1s cubic-bezier(0.0,0.0,0.2,1);
+    transition-property: opacity;
+    transition-duration: 0.1s;
+    transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
+    transition-delay: initial;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+element.style {
+    display: none;
+}
+
+.ytp-hide-info-bar .ytp-gradient-top, .ytp-hide-info-bar .ytp-chrome-top, .ytp-hide-controls .ytp-gradient-bottom, .ytp-hide-controls .ytp-chrome-bottom {
+    display: none;
+}
+.ytp-gradient-bottom {
+    bottom: 0;
+    z-index: 20;
+    background-position: bottom;
+    background-position-x: center;
+    background-position-y: bottom;
+}
+.ytp-gradient-top, .ytp-gradient-bottom {
+    height: 98px;
+    width: 100%;
+    position: absolute;
+    background-repeat: repeat-x;
+    background-repeat-x: repeat;
+    background-repeat-y: no-repeat;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAADGCAYAAAAT+OqFAAAAdklEQ…JSCY2dEstQY7AuxahwXFrvZmWl2rh4JZ07z9dLtesfNj5q0FU3A5ObbwAAAABJRU5ErkJggg==);
+    -moz-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    -webkit-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    pointer-events: none;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+element.style {
+    display: none;
+    width: 580px;
+    left: 12px;
+}
+
+.ytp-hide-info-bar .ytp-gradient-top, .ytp-hide-info-bar .ytp-chrome-top, .ytp-hide-controls .ytp-gradient-bottom, .ytp-hide-controls .ytp-chrome-bottom {
+    display: none;
+}
+.ytp-chrome-top, .ytp-chrome-top-buttons, .ytp-playlist-menu-button, .ytp-chrome-bottom {
+    -moz-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    -webkit-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+    transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+}
+.ytp-chrome-bottom {
+    bottom: 0;
+    height: 36px;
+    width: 100%;
+    z-index: 61;
+    padding-top: 3px;
+    text-align: left;
+    direction: ltr;
+}
+.ytp-chrome-top, .ytp-chrome-bottom {
+    position: absolute;
+    text-shadow: 0 0 2px rgba(0,0,0,.5);
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+#player-unavailable {
+    display: none;
+}
+.ytp-error {
+    display: table;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 40;
+    font-size: 127%;
+    line-height: 182%;
+    background: #000;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(0, 0, 0);
+    cursor: default;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-thumbnails__thumb-box {
+    background: #000;
+    border: 1px solid #6c6b49;
+    border-top-color: rgb(108, 107, 73);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: rgb(108, 107, 73);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: rgb(108, 107, 73);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: rgb(108, 107, 73);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    box-sizing: content-box;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-thumbnails__thumb-base-active-img, .c-thumbnails__thumb-base-inactive-img, .c-thumbnails__thumb-cap-active-img, .c-thumbnails__thumb-cap-inactive-img {
+    display: block;
+    left: 0;
+    max-width: 100%;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    position: absolute;
+    transition: opacity .35s;
+    transition-property: opacity;
+    transition-duration: 0.35s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+}
+
+.c-thumbnails__thumb-base-active-img, .c-thumbnails__thumb-base-inactive-img {
+    bottom: 0;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-thumbnails__thumb.is-active .c-thumbnails__thumb-base-active-img, .c-thumbnails__thumb.is-active .c-thumbnails__thumb-cap-active-img {
+    opacity: 1;
+}
+
+.c-thumbnails__thumb-base-active-img, .c-thumbnails__thumb-cap-active-img {
+    opacity: 0;
+}
+.c-thumbnails__thumb-base-active-img, .c-thumbnails__thumb-base-inactive-img, .c-thumbnails__thumb-cap-active-img, .c-thumbnails__thumb-cap-inactive-img {
+    display: block;
+    left: 0;
+    max-width: 100%;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    position: absolute;
+    transition: opacity .35s;
+    transition-property: opacity;
+    transition-duration: 0.35s;
+    transition-timing-function: initial;
+    transition-delay: initial;
+}
+.c-thumbnails__thumb-base-active-img, .c-thumbnails__thumb-base-inactive-img {
+    bottom: 0;
+}
+img {
+    border: 0;
+    border-top-color: initial;
+    border-top-style: initial;
+    border-top-width: 0px;
+    border-right-color: initial;
+    border-right-style: initial;
+    border-right-width: 0px;
+    border-bottom-color: initial;
+    border-bottom-style: initial;
+    border-bottom-width: 0px;
+    border-left-color: initial;
+    border-left-style: initial;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.o-list-inline>li, img {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.c-thumbnails__thumb {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    width: 63px;
+    max-width: 25%;
+    margin: 0 9px;
+    margin-top: 0px;
+    margin-right: 9px;
+    margin-bottom: 0px;
+    margin-left: 9px;
+    vertical-align: top;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-thumbnails__thumb-inner {
+    padding: 79.365% 0 47.619%;
+    padding-top: 79.365%;
+    padding-right: 0px;
+    padding-bottom: 47.619%;
+    padding-left: 0px;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-thumbnails__thumb {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    width: 63px;
+    max-width: 25%;
+    margin: 0 9px;
+    margin-top: 0px;
+    margin-right: 9px;
+    margin-bottom: 0px;
+    margin-left: 9px;
+    vertical-align: top;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-thumbnails__thumb-inner {
+    padding: 79.365% 0 47.619%;
+    padding-top: 79.365%;
+    padding-right: 0px;
+    padding-bottom: 47.619%;
+    padding-left: 0px;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-thumbnails__thumb {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    width: 63px;
+    max-width: 25%;
+    margin: 0 9px;
+    margin-top: 0px;
+    margin-right: 9px;
+    margin-bottom: 0px;
+    margin-left: 9px;
+    vertical-align: top;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-thumbnails__thumb-inner {
+    padding: 79.365% 0 47.619%;
+    padding-top: 79.365%;
+    padding-right: 0px;
+    padding-bottom: 47.619%;
+    padding-left: 0px;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-thumbnails__thumb {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    width: 63px;
+    max-width: 25%;
+    margin: 0 9px;
+    margin-top: 0px;
+    margin-right: 9px;
+    margin-bottom: 0px;
+    margin-left: 9px;
+    vertical-align: top;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-thumbnails__thumb-inner {
+    padding: 79.365% 0 47.619%;
+    padding-top: 79.365%;
+    padding-right: 0px;
+    padding-bottom: 47.619%;
+    padding-left: 0px;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-ability__text-slideshow {
+    margin-top: -15px;
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+}
+.slick-slider {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-touch-callout: none;
+    -khtml-user-select: none;
+    -ms-touch-action: pan-y;
+    touch-action: pan-y;
+    -webkit-tap-highlight-color: transparent;
+}
+.slick-slider, html {
+    box-sizing: border-box;
+}
+.slick-list, .slick-slider, .slick-track {
+    display: block;
+    position: relative;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-inlay {
+    max-width: 100%;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-parallax__layer--3-main {
+    position: relative;
+}
+
+.c-parallax__layer--a {
+    z-index: 6;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-inlay--center {
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+}
+.c-inlay {
+    max-width: 100%;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-main__second-block {
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    padding: 50px 0 0;
+    padding-top: 50px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    width: 590px;
+    max-width: 100%;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-inlay--center {
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+}
+.c-inlay--966wide {
+    width: 966px;
+}
+.c-inlay {
+    max-width: 100%;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-thumbnails--backface-hack {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+.c-footer-menu, .c-footer__center, .c-social-links, .c-thumbnails, .u-text-center {
+    text-align: center;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-main__section--second {
+    float: right;
+    margin-top: 100px;
+    width: 1024px;
+    max-width: 100%;
+}
+
+.c-main__section {
+    position: relative;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-parallax__group--gradient-interleaf {
+    margin-top: -25%;
+}
+
+.c-parallax, .c-parallax__group {
+    position: relative;
+}
+.o-container {
+    margin: 0 auto;
+    padding: 0;
+    position: relative;
+    width: 100%;
+    max-width: 1920px;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.c-parallax__group--04 {
+    z-index: 6;
+}
+
+.c-parallax, .c-parallax__group {
+    position: relative;
+}
+.o-container {
+    margin: 0 auto;
+    padding: 0;
+    position: relative;
+    width: 100%;
+    max-width: 1920px;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
